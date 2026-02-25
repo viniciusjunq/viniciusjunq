@@ -1,4 +1,4 @@
-# Vinicius Junqueira
+# Vinicius Junqueira Carvalho Costa
 
 Software Engineering student focused on backend development and structured system design.  
 Estudante de Engenharia de Software com foco em desenvolvimento backend e organização de sistemas.
