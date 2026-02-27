@@ -1,6 +1,6 @@
 # Vinicius Junqueira Carvalho Costa
 
-Backend-focused Software Engineering student | C, Python & structured system development
+Backend-focused Software Engineering student | C, Python & structured system development |
 Estudante de Engenharia de Software com foco em backend | C, Python e desenvolvimento estruturado
 ---
 
