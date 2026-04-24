@@ -1,72 +1,97 @@
-# Vinicius Junqueira Carvalho Costa
+Vinicius Junqueira Carvalho Costa
 
-Backend-focused Software Engineering student | C, Python & structured system development |
-Estudante de Engenharia de Software com foco em backend | C, Python e desenvolvimento estruturado
----
+Software Engineering Student | Python, Fullstack, Backend, Data Analysis & Databases
+Estudante de Engenharia de Software | Python, Fullstack, Backend, Análise de Dados e Banco de Dados
 
-## About Me | Sobre Mim
+⸻
 
-I am a Software Engineering student focused on backend development and structured system design. My experience combines academic projects with practical applications, especially in C, Python, and web technologies.
+About Me
 
-Throughout my studies, I have developed console-based systems in C applying structured programming principles, file manipulation, and logical control flow. I also built a financial control system using Python, focused on organizing income and expense data with clear backend logic.
+Software Engineering student focused on backend development, fullstack applications, and data-driven systems.
 
-In addition, I have worked on institutional web projects using HTML, CSS, and JavaScript, applying responsive design and structured layout practices for real-world business scenarios.
+My experience combines academic projects with practical applications, mainly using Python and web technologies. I have developed systems with emphasis on backend logic, data organization, and structured problem-solving.
 
-I am particularly interested in system organization, data structure fundamentals, and writing clean, maintainable code. My goal is to continuously strengthen my backend knowledge and build increasingly robust applications.
+I built a financial control system designed to manage and analyze income and expenses, applying consistent backend logic and structured data handling.
 
----
+I also have experience developing fullstack web projects, creating responsive interfaces integrated with backend services and databases.
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend e organização estruturada de sistemas. Minha experiência combina projetos acadêmicos e aplicações práticas, principalmente utilizando C, Python e tecnologias web.
+I am particularly interested in system organization, data structures, databases, and data analysis. My goal is to continuously improve my backend knowledge and build robust and scalable systems.
 
-Ao longo da graduação, desenvolvi sistemas em C no ambiente de console aplicando programação estruturada, manipulação de arquivos e controle lógico de fluxo. Também desenvolvi um sistema de controle financeiro em Python, voltado para organização de receitas e despesas com lógica backend bem definida.
+⸻
 
-Além disso, atuei no desenvolvimento de projetos web institucionais utilizando HTML, CSS e JavaScript, aplicando conceitos de responsividade e organização estrutural para cenários reais de negócios.
+Sobre Mim
 
-Tenho interesse especial em organização de sistemas, fundamentos de estruturas de dados e escrita de código limpo e de fácil manutenção. Meu objetivo é fortalecer continuamente meu conhecimento em backend e desenvolver aplicações cada vez mais robustas.
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend, aplicações fullstack e sistemas orientados a dados.
 
----
+Minha experiência combina projetos acadêmicos com aplicações práticas, principalmente utilizando Python e tecnologias web. Tenho desenvolvido sistemas com foco em lógica backend, organização de dados e resolução estruturada de problemas.
 
-## Technical Focus | Foco Técnico
+Desenvolvi um sistema de controle financeiro voltado ao gerenciamento e análise de receitas e despesas, aplicando lógica backend consistente e manipulação estruturada de dados.
 
-- Backend development  
-- Structured programming in C  
-- Application development with Python  
-- Organized and maintainable code structure  
+Também possuo experiência no desenvolvimento de projetos web fullstack, criando interfaces responsivas integradas com backend e banco de dados.
 
-- Desenvolvimento backend  
-- Programação estruturada em C  
-- Desenvolvimento de aplicações em Python  
-- Organização e manutenção de código limpo  
+Tenho interesse em organização de sistemas, estruturas de dados, banco de dados e análise de dados. Meu objetivo é evoluir continuamente no backend e desenvolver sistemas robustos e escaláveis.
 
----
+⸻
 
-## Selected Work | Projetos em Destaque
+Technical Focus
 
-**Finance Control System**  
-Financial management application designed to manage income and expenses with organized backend logic.  
-Sistema de controle financeiro desenvolvido para gerenciamento de receitas e despesas com lógica estruturada.
+* Backend Development (Python)
+* Fullstack Development
+* Data Analysis
+* Database Management
 
-**Task Manager in C**  
-Console-based system applying structured programming, file manipulation, and logical control flow.  
-Sistema em console utilizando programação estruturada, manipulação de arquivos e controle lógico.
+⸻
 
-**Institutional Web Projects**  
-Development of structured and responsive web interfaces for real-world business scenarios.  
-Desenvolvimento de interfaces web estruturadas e responsivas aplicadas a cenários reais.
+Foco Técnico
 
----
+* Desenvolvimento Backend (Python)
+* Desenvolvimento Fullstack
+* Análise de Dados
+* Gerenciamento de Banco de Dados
 
-## Currently Developing | Atualmente Desenvolvendo
+⸻
 
-- Backend architecture knowledge  
-- Deeper understanding of data structures  
-- System organization practices  
+Selected Work
 
-- Conhecimento em arquitetura backend  
-- Aprofundamento em estruturas de dados  
-- Melhores práticas de organização de sistemas  
+Finance Control System
+Application developed to manage and analyze income and expenses with structured backend logic.
 
----
+Task Manager System
+System focused on organization, data handling, and structured problem-solving.
+
+Institutional Web Projects
+Development of responsive and structured web interfaces for real-world scenarios.
+
+⸻
+
+Projetos em Destaque
+
+Sistema de Controle Financeiro
+Aplicação desenvolvida para gerenciar e analisar receitas e despesas com lógica backend estruturada.
+
+Sistema Gerenciador de Tarefas
+Sistema voltado à organização, manipulação de dados e resolução estruturada de problemas.
+
+Projetos Web Institucionais
+Desenvolvimento de interfaces web responsivas e organizadas para cenários reais.
+
+⸻
+
+Currently Developing
+
+* Backend architecture and system design
+* Data analysis and data handling
+* Database modeling
+* Fullstack application development
+
+⸻
+
+Atualmente Desenvolvendo
+
+* Arquitetura backend e organização de sistemas
+* Análise e manipulação de dados
+* Modelagem de banco de dados
+* Desenvolvimento de aplicações fullstack
 
 ## Contact | Contato
 
