@@ -1,97 +1,98 @@
-Vinicius Junqueira Carvalho Costa
+## Vinicius Junqueira Carvalho Costa  
 
-Software Engineering Student | Python, Fullstack, Backend, Data Analysis & Databases
+Software Engineering Student | Python, Fullstack, Backend, Data Analysis & Databases<br>
+
 Estudante de Engenharia de Software | Python, Fullstack, Backend, Análise de Dados e Banco de Dados
 
-⸻
+---
 
-About Me
+## About Me | Sobre Mim
 
-Software Engineering student focused on backend development, fullstack applications, and data-driven systems.
+Software Engineering student focused on backend, fullstack applications, and data-driven systems.<br>
 
-My experience combines academic projects with practical applications, mainly using Python and web technologies. I have developed systems with emphasis on backend logic, data organization, and structured problem-solving.
+Estudante de Engenharia de Software com foco em backend, aplicações fullstack e sistemas orientados a dados.<br><br>
 
-I built a financial control system designed to manage and analyze income and expenses, applying consistent backend logic and structured data handling.
+Experience combining academic projects with practical applications using Python and web technologies.<br>
 
-I also have experience developing fullstack web projects, creating responsive interfaces integrated with backend services and databases.
+Experiência combinando projetos acadêmicos com aplicações práticas utilizando Python e tecnologias web.<br><br>
 
-I am particularly interested in system organization, data structures, databases, and data analysis. My goal is to continuously improve my backend knowledge and build robust and scalable systems.
+Development of systems focused on backend logic, data organization, and structured problem-solving.<br>
 
-⸻
+Desenvolvimento de sistemas com foco em lógica backend, organização de dados e resolução estruturada de problemas.<br><br>
 
-Sobre Mim
+Financial control system built to manage and analyze income and expenses with structured data handling.<br>
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend, aplicações fullstack e sistemas orientados a dados.
+Sistema de controle financeiro desenvolvido para gerenciar e analisar receitas e despesas com dados estruturados.<br><br>
 
-Minha experiência combina projetos acadêmicos com aplicações práticas, principalmente utilizando Python e tecnologias web. Tenho desenvolvido sistemas com foco em lógica backend, organização de dados e resolução estruturada de problemas.
+Experience with fullstack web projects, integrating interfaces with backend and databases.<br>
 
-Desenvolvi um sistema de controle financeiro voltado ao gerenciamento e análise de receitas e despesas, aplicando lógica backend consistente e manipulação estruturada de dados.
+Experiência com projetos web fullstack, integrando interfaces com backend e banco de dados.<br><br>
 
-Também possuo experiência no desenvolvimento de projetos web fullstack, criando interfaces responsivas integradas com backend e banco de dados.
+Strong interest in system organization, data structures, databases, and data analysis.<br>
 
-Tenho interesse em organização de sistemas, estruturas de dados, banco de dados e análise de dados. Meu objetivo é evoluir continuamente no backend e desenvolver sistemas robustos e escaláveis.
+Interesse em organização de sistemas, estruturas de dados, banco de dados e análise de dados.<br><br>
 
-⸻
+Goal focused on improving backend knowledge and building robust and scalable systems.<br>
 
-Technical Focus
+Objetivo focado em evoluir no backend e desenvolver sistemas robustos e escaláveis.<br>
 
-* Backend Development (Python)
-* Fullstack Development
-* Data Analysis
-* Database Management
+---
 
-⸻
+## Technical Focus | Foco Técnico
 
-Foco Técnico
+Backend Development (Python)<br>
 
-* Desenvolvimento Backend (Python)
-* Desenvolvimento Fullstack
-* Análise de Dados
-* Gerenciamento de Banco de Dados
+Desenvolvimento Backend (Python)<br><br>
 
-⸻
+Fullstack Development<br>
 
-Selected Work
+Desenvolvimento Fullstack<br><br>
 
-Finance Control System
-Application developed to manage and analyze income and expenses with structured backend logic.
+Data Analysis<br>
 
-Task Manager System
-System focused on organization, data handling, and structured problem-solving.
+Análise de Dados<br><br>
 
-Institutional Web Projects
-Development of responsive and structured web interfaces for real-world scenarios.
+Database Management<br>
 
-⸻
+Gerenciamento de Banco de Dados<br>
 
-Projetos em Destaque
+---
 
-Sistema de Controle Financeiro
-Aplicação desenvolvida para gerenciar e analisar receitas e despesas com lógica backend estruturada.
+## Selected Work | Projetos em Destaque
 
-Sistema Gerenciador de Tarefas
-Sistema voltado à organização, manipulação de dados e resolução estruturada de problemas.
+Finance Control System – Financial data management and analysis application.<br>
 
-Projetos Web Institucionais
-Desenvolvimento de interfaces web responsivas e organizadas para cenários reais.
+Sistema de Controle Financeiro – Aplicação para gerenciamento e análise de dados financeiros.<br><br>
 
-⸻
+Task Manager System – System focused on organization and data handling.<br>
 
-Currently Developing
+Sistema Gerenciador de Tarefas – Sistema focado em organização e manipulação de dados.<br><br>
 
-* Backend architecture and system design
-* Data analysis and data handling
-* Database modeling
-* Fullstack application development
+Institutional Web Projects – Responsive and structured web interfaces.<br>
 
-⸻
+Projetos Web Institucionais – Interfaces web responsivas e estruturadas.<br>
 
-Atualmente Desenvolvendo
+---
 
-* Arquitetura backend e organização de sistemas
-* Análise e manipulação de dados
-* Modelagem de banco de dados
-* Desenvolvimento de aplicações fullstack
+## Currently Developing | Atualmente Desenvolvendo
+
+Backend architecture and system design<br>
+
+Arquitetura backend e organização de sistemas<br><br>
+
+Data analysis and data handling<br>
+
+Análise e manipulação de dados<br><br>
+
+Database modeling<br>
+
+Modelagem de banco de dados<br><br>
+
+Fullstack application development<br>
+
+Desenvolvimento de aplicações fullstack<br>
+
+---
 
 ## Contact | Contato
 
