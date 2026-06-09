@@ -1,28 +1,22 @@
-<h1 align="center">Vinicius Junqueira Carvalho Costa</h1>
+## Vinicius Junqueira Carvalho Costa
 
-<p align="center">
-  Software Engineering student focused on backend, fullstack development, data analysis and databases.
-</p>
-
-<p align="center">
-  <a href="https://github.com/viniciusjunq">
-    <img src="https://img.shields.io/badge/GitHub-viniciusjunq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinicius-junqueira-costa">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Junqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:viniciusjunqueiraccosta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Software Engineering Student | Backend, Fullstack, Python, Data Analysis & Databases<br>
+Estudante de Engenharia de Software | Backend, Fullstack, Python, Analise de Dados e Banco de Dados
 
 ---
 
-## About Me
+## About Me | Sobre Mim
 
-I am a Software Engineering student building practical projects with backend logic, web interfaces, data organization and database modeling.
+I am a Software Engineering student focused on backend development, fullstack applications, databases and data-driven systems.<br>
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend, aplicacoes fullstack, banco de dados e sistemas orientados a dados.<br><br>
 
-My current focus is improving backend architecture, creating structured fullstack applications and developing systems that are easy to understand, maintain and evolve.
+I like building organized systems that connect business logic, data handling and practical user needs. My projects are usually focused on solving real problems with clear structure, clean organization and continuous improvement.<br>
+Gosto de desenvolver sistemas organizados que conectam logica de negocio, manipulacao de dados e necessidades reais dos usuarios. Meus projetos geralmente sao focados em resolver problemas praticos com estrutura clara, boa organizacao e evolucao constante.<br><br>
+
+Currently, I am improving my knowledge in backend architecture, database modeling, fullstack development and data analysis, while building academic and personal projects to strengthen my experience.<br>
+Atualmente, estou evoluindo meus conhecimentos em arquitetura backend, modelagem de banco de dados, desenvolvimento fullstack e analise de dados, desenvolvendo projetos academicos e pessoais para fortalecer minha experiencia.
+
+---
 
 ## Tech Stack
 
@@ -41,14 +35,12 @@ My current focus is improving backend architecture, creating structured fullstac
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 <p>
@@ -57,33 +49,53 @@ My current focus is improving backend architecture, creating structured fullstac
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Technical Focus
+---
 
-- Backend development with Python and structured business logic
-- Fullstack web applications connected to databases
-- Data analysis, data handling and database modeling
-- Clean project organization and problem-solving through code
+## Technical Focus | Foco Tecnico
 
-## Featured Projects
+Backend Development with Python<br>
+Desenvolvimento Backend com Python<br><br>
 
-| Project | Description | Main Focus |
-| --- | --- | --- |
-| [condo-reserva](https://github.com/viniciusjunq/condo-reserva) | Reservation system with admin panel, release rule and cancellation flow. | Fullstack, TypeScript |
-| [finance-control-system](https://github.com/viniciusjunq/finance-control-system) | Financial management system for income and expense control. | Backend, data handling |
-| [Vinicius Personal Portfolio](https://github.com/viniciusjunq/Vinicius-Personal-Portfolio) | Personal portfolio website for projects and development experience. | Web development |
-| [hangman-game-c](https://github.com/viniciusjunq/hangman-game-c) | Console-based hangman game developed in C. | Logic, structured programming |
+Fullstack Development<br>
+Desenvolvimento Fullstack<br><br>
 
-## GitHub Stats
+Data Analysis and Data Handling<br>
+Analise e Manipulacao de Dados<br><br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viniciusjunq&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunq&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+Database Modeling and Management<br>
+Modelagem e Gerenciamento de Banco de Dados
 
-## Contact
+---
 
-- LinkedIn: [vinicius-junqueira-costa](https://www.linkedin.com/in/vinicius-junqueira-costa)
-- Email: [viniciusjunqueiraccosta@gmail.com](mailto:viniciusjunqueiraccosta@gmail.com)
+## Selected Work | Projetos em Destaque
+
+[condo-reserva](https://github.com/viniciusjunq/condo-reserva) - Reservation system with admin panel, release rule and cancellation flow.<br>
+Sistema de reservas com painel administrativo, regra de liberacao e fluxo de cancelamento.<br><br>
+
+[finance-control-system](https://github.com/viniciusjunq/finance-control-system) - Financial management system for income and expense control.<br>
+Sistema de controle financeiro para gerenciamento de receitas e despesas.<br><br>
+
+[Vinicius Personal Portfolio](https://github.com/viniciusjunq/Vinicius-Personal-Portfolio) - Personal portfolio website focused on projects and development experience.<br>
+Portfolio pessoal focado em projetos e experiencia em desenvolvimento.
+
+---
+
+## Currently Developing | Atualmente Desenvolvendo
+
+Backend architecture and system organization<br>
+Arquitetura backend e organizacao de sistemas<br><br>
+
+Database modeling<br>
+Modelagem de banco de dados<br><br>
+
+Fullstack application development<br>
+Desenvolvimento de aplicacoes fullstack
+
+---
+
+## Contact | Contato
+
+LinkedIn: [vinicius-junqueira-costa](https://www.linkedin.com/in/vinicius-junqueira-costa)<br>
+Email: [viniciusjunqueiraccosta@gmail.com](mailto:viniciusjunqueiraccosta@gmail.com)
