@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,50:1F6FEB,100:58A6FF&section=header&text=Vinicius%20Junqueira&fontColor=FFFFFF&fontSize=34&fontAlignY=35&animation=fadeIn" alt="Profile banner" />
+
 <h1 align="center">Vinicius Junqueira Carvalho Costa</h1>
 
 <p align="center">
@@ -24,50 +26,35 @@
 
 ## About Me | Sobre Mim
 
-I am a Software Engineering student focused on backend development, fullstack applications, automation, databases and data-driven systems.<br>
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend, aplicações fullstack, automação, banco de dados e sistemas orientados a dados.<br><br>
+I am a Software Engineering student focused on building practical and well-structured solutions with backend development, fullstack applications, automation and data organization.<br>
+Sou estudante de Engenharia de Software com foco em desenvolver soluções práticas e bem estruturadas, envolvendo desenvolvimento backend, aplicações fullstack, automação e organização de dados.<br><br>
 
-I like building organized systems that connect business logic, data handling and practical user needs. My projects are usually focused on solving real problems with clear structure, clean organization and continuous improvement.<br>
-Gosto de desenvolver sistemas organizados que conectam lógica de negócio, manipulação de dados e necessidades reais dos usuários. Meus projetos geralmente são focados em resolver problemas práticos com estrutura clara, boa organização e evolução constante.<br><br>
+My work and studies are strongly connected to Python, SQL, databases and systems that integrate frontend, backend and data handling. I value clean organization, clear logic and solutions that make information easier to manage and analyze.<br>
+Meus estudos e projetos estão fortemente ligados a Python, SQL, banco de dados e sistemas que integram frontend, backend e manipulação de dados. Valorizo boa organização, lógica clara e soluções que tornam as informações mais fáceis de gerenciar e analisar.<br><br>
 
-Currently, I am improving my knowledge in Python, SQL, backend architecture, database modeling, fullstack development, automation and data analysis, while building academic and personal projects to strengthen my experience.<br>
-Atualmente, estou evoluindo meus conhecimentos em Python, SQL, arquitetura backend, modelagem de banco de dados, desenvolvimento fullstack, automação e análise de dados, desenvolvendo projetos acadêmicos e pessoais para fortalecer minha experiência.
+Currently, I am improving my knowledge in backend architecture, database modeling, automation and data analysis through academic and personal projects, always aiming to build systems that are efficient, maintainable and useful in real contexts.<br>
+Atualmente, estou evoluindo meus conhecimentos em arquitetura backend, modelagem de banco de dados, automação e análise de dados por meio de projetos acadêmicos e pessoais, buscando desenvolver sistemas eficientes, manuteníveis e úteis em contextos reais.
 
 ---
 
 ## Tech Stack
 
-**Languages | Linguagens**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-**Frontend**
-
-<p>
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-**Data & Databases | Dados e Banco de Dados**
-
-<p>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-**Tools & Workflow | Ferramentas**
-
-<p>
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud" />
