@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,50:1F6FEB,100:58A6FF&section=header&text=Vinicius%20Junqueira&fontColor=FFFFFF&fontSize=34&fontAlignY=35&animation=fadeIn" alt="Profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,50:1F6FEB,100:58A6FF&section=header&text=Vinicius%20Junqueira%20Carvalho%20Costa&fontColor=FFFFFF&fontSize=28&fontAlignY=35&animation=fadeIn" alt="Profile banner" />
 
 <h1 align="center">Vinicius Junqueira Carvalho Costa</h1>
 
