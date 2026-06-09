@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-banner.svg" alt="Profile banner" />
+<img width="100%" src="./assets/profile-banner.png" alt="Profile banner" />
 
 <h1 align="center">Vinicius Junqueira Carvalho Costa</h1>
 
