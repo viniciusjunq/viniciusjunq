@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,50:1F6FEB,100:58A6FF&section=header&text=Vinicius%20Junqueira%20Carvalho%20Costa&fontColor=FFFFFF&fontSize=28&fontAlignY=35&animation=fadeIn" alt="Profile banner" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Profile banner" />
 
 <h1 align="center">Vinicius Junqueira Carvalho Costa</h1>
 
@@ -62,7 +62,6 @@ Atualmente, estou evoluindo meus conhecimentos em arquitetura backend, modelagem
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
 ---
