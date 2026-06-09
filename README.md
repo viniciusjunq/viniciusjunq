@@ -1,20 +1,20 @@
 ## Vinicius Junqueira Carvalho Costa
 
-Software Engineering Student | Backend, Fullstack, Python, Data Analysis & Databases<br>
-Estudante de Engenharia de Software | Backend, Fullstack, Python, Análise de Dados e Banco de Dados
+Software Engineering Student | Python, Fullstack, Backend, Automation, Data Analysis & Databases<br>
+Estudante de Engenharia de Software | Python, Fullstack, Backend, Automação, Análise de Dados e Banco de Dados
 
 ---
 
 ## About Me | Sobre Mim
 
-I am a Software Engineering student focused on backend development, fullstack applications, databases and data-driven systems.<br>
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend, aplicações fullstack, banco de dados e sistemas orientados a dados.<br><br>
+I am a Software Engineering student focused on backend development, fullstack applications, automation, databases and data-driven systems.<br>
+Sou estudante de Engenharia de Software com foco em desenvolvimento backend, aplicações fullstack, automação, banco de dados e sistemas orientados a dados.<br><br>
 
 I like building organized systems that connect business logic, data handling and practical user needs. My projects are usually focused on solving real problems with clear structure, clean organization and continuous improvement.<br>
 Gosto de desenvolver sistemas organizados que conectam lógica de negócio, manipulação de dados e necessidades reais dos usuários. Meus projetos geralmente são focados em resolver problemas práticos com estrutura clara, boa organização e evolução constante.<br><br>
 
-Currently, I am improving my knowledge in backend architecture, database modeling, fullstack development and data analysis, while building academic and personal projects to strengthen my experience.<br>
-Atualmente, estou evoluindo meus conhecimentos em arquitetura backend, modelagem de banco de dados, desenvolvimento fullstack e análise de dados, desenvolvendo projetos acadêmicos e pessoais para fortalecer minha experiência.
+Currently, I am improving my knowledge in Python, SQL, backend architecture, database modeling, fullstack development, automation and data analysis, while building academic and personal projects to strengthen my experience.<br>
+Atualmente, estou evoluindo meus conhecimentos em Python, SQL, arquitetura backend, modelagem de banco de dados, desenvolvimento fullstack, automação e análise de dados, desenvolvendo projetos acadêmicos e pessoais para fortalecer minha experiência.
 
 ---
 
@@ -42,6 +42,7 @@ Atualmente, estou evoluindo meus conhecimentos em arquitetura backend, modelagem
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 <p>
@@ -62,6 +63,9 @@ Desenvolvimento Fullstack<br><br>
 
 Data Analysis and Data Handling<br>
 Análise e Manipulação de Dados<br><br>
+
+Python Automation<br>
+Automação com Python<br><br>
 
 Database Modeling and Management<br>
 Modelagem e Gerenciamento de Banco de Dados
@@ -92,14 +96,17 @@ Portfólio pessoal focado em projetos e experiência em desenvolvimento.
 
 ## Currently Developing | Atualmente Desenvolvendo
 
+Backend and data solutions<br>
+Soluções backend e de dados<br><br>
+
+Python automation projects<br>
+Projetos de automação com Python<br><br>
+
 Backend architecture and system organization<br>
 Arquitetura backend e organização de sistemas<br><br>
 
 Database modeling<br>
-Modelagem de banco de dados<br><br>
-
-Fullstack application development<br>
-Desenvolvimento de aplicações fullstack
+Modelagem de banco de dados
 
 ---
 
